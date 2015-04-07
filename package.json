@@ -1,0 +1,15 @@
+{
+  "name": "node-structure",
+  "description": "Sample structure of a node/express application",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node bin/preinstall.js",
+    "postinstall": "bower install"
+  },
+  "dependencies": {
+    "winston": "^0.9.0"
+  },
+  "devDependencies": { }
+}
