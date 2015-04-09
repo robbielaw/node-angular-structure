@@ -1,4 +1,5 @@
 {
     "port": 5050,
-    "callback_url": "http://localhost:5050"
+    "callback_url": "http://localhost:5050",
+    "redis_url": "127.0.0.1:6379"
 }
