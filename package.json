@@ -1,9 +1,14 @@
 {
   "name": "node-structure",
   "description": "Sample structure of a node/express application",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "main": "index.js",
+  "engine": "^0.12.x",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/robbielaw/node-angular-structure.git"
+  },
   "scripts": {
     "preinstall": "node bin/preinstall.js",
     "postinstall": "bower install"

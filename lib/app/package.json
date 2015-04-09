@@ -1,8 +1,13 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "",
+  "description": "App (Express) component",
   "main": "index.js",
+  "engine": "^0.12.x",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/robbielaw/node-angular-structure.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
