@@ -1,3 +1,4 @@
 {
-    "port": 3000
+    "port": 5050,
+    "callback_url": "http://localhost:5050"
 }
