@@ -10,6 +10,7 @@
       "url": "https://github.com/robbielaw/node-angular-structure.git"
   },
   "scripts": {
+    "start": "node index.js",
     "preinstall": "node bin/preinstall.js",
     "postinstall": "bower install"
   },
