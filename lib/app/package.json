@@ -17,6 +17,7 @@
     "connect-redis": "latest",
     "express": "^4.9.0",
     "express-session": "^1.11.1",
-    "helmet": "^0.7.1"
+    "helmet": "^0.7.1",
+    "passport": "^0.2.1"
   }
 }
